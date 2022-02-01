@@ -1,0 +1,61 @@
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}	 
+
+.navbar {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.section-1-container {
+	width: 1170px;
+	height: 460px;
+	margin: 0 auto;
+}
+
+.section-2-container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.section-2-title {
+	margin-bottom: 20px;
+}
+
+.left-block {
+	width: 500px;
+	height: 250px;
+	background-color: #F2F2F2;
+	padding: 10px 15px 24px 28px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.block-text {
+	 display: inline-block;
+	 width: 355px;
+	 vertical-align: middle;
+}
+
+.block-img {
+	width: 100px;
+	height: 150px;
+	display: inline-block;
+	vertical-align: left;
+}
+
+.footer {
+	margin: 32px 30px;
+}
+
+.social {
+	width: 120px;
+	height: 100px;
+}  
+	
